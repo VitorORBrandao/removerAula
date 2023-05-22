@@ -1,5 +1,6 @@
 # removerAula
 Repositório temporário para a aula prática de GCS (22/05/2023)
+Aluno: Vítor Oliveira Resende Brandão
 
 ### Atividades:
 1. [] Clonar um repositório; Fazer commit na main/master; Fazer um push; Analisar o log;
